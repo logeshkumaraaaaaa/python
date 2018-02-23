@@ -1,5 +1,5 @@
 n=int(input("Enter number: "))
-if(n>0):
-    print("Number is positive")
+if(1<= n <= 100000):
+    print(" positive")
 else:
-    print("Number is negative")
+    print("zero")
